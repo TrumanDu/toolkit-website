@@ -49,6 +49,9 @@ function Home() {
                 <Text code>点击托盘</Text>可以显示和隐藏该界面。
               </Paragraph>
               <Paragraph style={style.fontStyle}>
+              快捷键<Text code>Control+Alt+O</Text>可以呼出主界面，
+              </Paragraph>
+              <Paragraph style={style.fontStyle}>
                 在主界面内可以查看已经安装的插件，点击插件即可使用，用完即走。
               </Paragraph>
               <Paragraph style={style.fontStyle}>
