@@ -52,6 +52,13 @@
       "version": "1.1.0",
       "description": "Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently",
       "logo": "https://toolkit.trumandu.top/app/pic-smaller.svg"
+    },
+    {
+      "name": "@trumandu/social-screeshots",
+      "pluginName": "social-screeshots",
+      "version": "0.0.1",
+      "description": "美化图片",
+      "logo": "https://toolkit.trumandu.top/app/social-screeshots.ico"
     }
   ],
   "Other": [
