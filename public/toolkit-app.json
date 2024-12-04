@@ -20,6 +20,13 @@
       "version": "0.0.1",
       "description": "JSON-handle格式化工具",
       "logo": "https://toolkit.trumandu.top/app/JSON-handle.ico"
+    },
+    {
+      "name": "toolkit-composerize",
+      "pluginName": "composerize",
+      "version": "0.0.1",
+      "description": "docker run 转 docker compose",
+      "logo": "https://toolkit.trumandu.top/app/icon.ico"
     }
   ],
   "Editor": [
