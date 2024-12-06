@@ -24,7 +24,7 @@
     {
       "name": "toolkit-composerize",
       "pluginName": "composerize",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "description": "docker run 转 docker compose",
       "logo": "https://toolkit.trumandu.top/app/icon.ico"
     }
