@@ -66,6 +66,13 @@
       "version": "0.0.1",
       "description": "美化图片",
       "logo": "https://toolkit.trumandu.top/app/social-screenshots.ico"
+    },
+    {
+      "name": "toolkit-m2p",
+      "pluginName": "markdown-to-poster",
+      "version": "1.0.0",
+      "description": "markdown 制作海报",
+      "logo": "https://toolkit.trumandu.top/app/icon.ico"
     }
   ],
   "Other": [
