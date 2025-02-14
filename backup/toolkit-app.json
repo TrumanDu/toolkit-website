@@ -80,6 +80,13 @@
       "version": "0.0.1",
       "description": "脑思维图",
       "logo": "https://toolkit.trumandu.top/app/mind-map.ico"
+    },
+    {
+      "name": "toolkit-pic-prose",
+      "pluginName": "PicProse",
+      "version": "0.0.1",
+      "description": "封面图生成器",
+      "logo": "https://toolkit.trumandu.top/app/pic-prose.png"
     }
   ],
   "Other": [
