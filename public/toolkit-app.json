@@ -73,6 +73,13 @@
       "version": "1.0.0",
       "description": "markdown 制作海报",
       "logo": "https://toolkit.trumandu.top/app/icon.ico"
+    },
+    {
+      "name": "toolkit-mind-map",
+      "pluginName": "MindMap",
+      "version": "0.0.1",
+      "description": "脑思维图",
+      "logo": "https://toolkit.trumandu.top/app/mind-map.ico"
     }
   ],
   "Other": [
